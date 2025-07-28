@@ -1,6 +1,6 @@
-package core.basesyntax;
+package ball.lottery;
 
-import ball.lottery.Ball;
+import core.basesyntax.ColorSupplier;
 import java.util.Random;
 
 public class Lottery {

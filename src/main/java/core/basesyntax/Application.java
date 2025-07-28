@@ -1,6 +1,7 @@
 package core.basesyntax;
 
 import ball.lottery.Ball;
+import ball.lottery.Lottery;
 
 public class Application {
     public static void main(String[] args) {
